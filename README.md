@@ -25,7 +25,6 @@ After initialization, you can use simple one-line methods to save values to the 
 - `Prefs.putString(key, string)`
 - `Prefs.putLong(key, long)`
 - `Prefs.putBoolean(key, boolean)` 
-- 
 
 https://jitpack.io
 
